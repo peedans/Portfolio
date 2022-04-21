@@ -3,7 +3,7 @@ import { useState } from 'react'
 
 const Skills = () => {
 
-    const [skill, setSkill] = useState(['HTML','CSS','Javascript','ReactJS','SQL']);
+    const [skill, setSkill] = useState(['HTML','CSS','Javascript','ReactJS','MongoDB','SQL']);
     const [softSkill, setSoftskill] = useState(['Teamwork','Communication','Problem Solving','Time Management','Creativity']);
     const [interests, setInterests] = useState(['Coding','Game','Fitness','Reading','Music']);
   return (
