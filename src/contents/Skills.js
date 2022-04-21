@@ -8,7 +8,7 @@ const Skills = () => {
     const [interests, setInterests] = useState(['Coding','Game','Fitness','Reading','Music']);
   return (
     <div className ='condiv skills'>
-        <h1 className="head">My Skills</h1>
+        <h1 className="head">Programming language</h1>
         <h2></h2>
         <ul>
             {skill.map((value) => {
