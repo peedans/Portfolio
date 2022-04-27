@@ -21,6 +21,7 @@ const Project = () => {
             <div className='Santa'>
                 <h2 className='santaHead'>Santa Project</h2>
                 <img src={Activity} width="500" height="auto" />
+                <p className='santaText'>I make a website about collecting exercise data such as calculating bmi, activity, location, etc. The front end website uses React, the backend uses Express to manage the RESTful API and finally Mongoose. to connect to MongoDB</p>
             </div>
         </div>
     )
