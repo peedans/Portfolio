@@ -23,7 +23,8 @@ const Project = () => {
             <div className='Santa'>
                 <h2 className='santaHead'>Santa Project</h2>
                 <img src={Activity} width="500" height="auto" />
-                <p className='santaText'>I make a website about collecting exercise data such as calculating bmi, activity, location, etc. The front end website uses React, the backend uses Express to manage the RESTful API and finally Mongoose. to connect to MongoDB</p>
+                <p className='santaText'>Santa Project - Exercise record website :
+  The application website is divided into front-end using React with React-router and Axios as the main dependency. In the back-end, it uses Express to manage RESTful API. Finally, using Mongoose to connect MongoDB.</p>
                 <a href="https://github.com/peedans/Santa-Frontend" target="_blank" rel="noopender noreferrer" className="github"><i className="fab fa-github"></i></a>
             </div>
         </div>
